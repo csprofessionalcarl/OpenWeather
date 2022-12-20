@@ -11,7 +11,7 @@ airpol = PrettyTable()
 #Default location is Plano, TX
 lat = 33.019675
 lon = -96.699241
-apiKey = "8012016a2a5b58b63168873805ecc018"
+apiKey = "API KEY GOES HERE"
 spacer = "-----------------------------------------"
 format = 0 
 cho = 0
